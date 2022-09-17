@@ -1,0 +1,7 @@
+101,Panipat,Vishwas Patil,10
+102,Mrutyunjay,Shivaji Sawant,5
+103,Aptitude,R.S.Agarwal,9
+104,Python Language,Anthony Adams,5
+105,World of Facts,Russell Ash,5
+106,Rich Dad Poor Dad,Robert Kiyosaki,2
+107,Yugandhar,Shivaji Sawant,3
